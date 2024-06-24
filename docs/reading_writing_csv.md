@@ -18,8 +18,10 @@ df.data.forEach(series -> {
     print(series.data.join(", "))
 })
 
+```
 ## Writing CSV
 
+```bend
 import "parallel_pandas.bend"
 
 # Create a DataFrame
