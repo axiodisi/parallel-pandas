@@ -4,6 +4,8 @@
 # Reading and Writing CSV Files
 
 Read data from a CSV file into a DataFrame using the `read_csv` function.
+Write data from a CSV file into a DataFrame using the `write_csv` function.
+
 ```
 ## Reading CSV
 
@@ -19,9 +21,7 @@ df.data.forEach(series -> {
 })
 
 ```
-```markdown
-Write data from a CSV file into a DataFrame using the `write_csv` function.
-```
+
 ## Writing CSV
 
 ```bend
