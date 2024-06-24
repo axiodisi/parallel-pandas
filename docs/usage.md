@@ -126,9 +126,9 @@ aggregated_df.data.forEach(series -> {
 })
 ```
 
-```markdown
-# Reading and Writing CSV Files
 
+# Reading and Writing CSV Files
+```markdown
 Read data from a CSV file into a DataFrame using the `read_csv` function.
 Write data from a CSV file into a DataFrame using the `write_csv` function.
 
