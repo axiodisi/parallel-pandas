@@ -1,5 +1,4 @@
 
-**docs/reading_writing_csv.md**:
 ```markdown
 # Reading and Writing CSV Files
 
