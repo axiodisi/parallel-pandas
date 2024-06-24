@@ -8,7 +8,7 @@ ParallelPandas is a data manipulation library for the Bend programming language,
 
 - [Creating a DataFrame](#creating-a-dataframe)
 - [Filtering Data](filtering.md)
-- [Selecting Columns](#selecting-columns)
+- [Selecting Columns](selecting_columns.md)
 - [Aggregating Data](aggregating.md)
 - [Reading and Writing CSV Files](reading_writing_csv.md)
 
