@@ -19,6 +19,9 @@ df.data.forEach(series -> {
 })
 
 ```
+```markdown
+Write data from a CSV file into a DataFrame using the `write_csv` function.
+```
 ## Writing CSV
 
 ```bend
