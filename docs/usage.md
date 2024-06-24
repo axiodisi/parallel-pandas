@@ -27,7 +27,7 @@ let cities = create_series(["New York", "Los Angeles", "Chicago"], [0, 1, 2])
 # Combine the Series into a DataFrame
 let columns = ["Name", "Age", "City"]
 let df = create_dataframe([names, ages, cities], columns)
-
+```
 
 **docs/filtering.md**:
 ```markdown
@@ -61,3 +61,4 @@ let filtered_df = filter_dataframe(df, condition)
 filtered_df.data.forEach(series -> {
     print(series.data.join(", "))
 })
+```
