@@ -29,7 +29,7 @@ let columns = ["Name", "Age", "City"]
 let df = create_dataframe([names, ages, cities], columns)
 ```
 
-**docs/filtering.md**:
+## Filtering
 ```markdown
 # Filtering Data
 
