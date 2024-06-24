@@ -4,7 +4,7 @@
 # Reading and Writing CSV Files
 
 Read data from a CSV file into a DataFrame using the `read_csv` function.
-
+```
 ## Reading CSV
 
 ```bend
